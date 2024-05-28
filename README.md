@@ -29,3 +29,37 @@ SELECT * FROM TABLE 1
 WHERE CODITIO=MET
 
 ```
+
+![](IMG_20230330_103031.jpg)
+
+
+
+
+|gender|ocupation|age|
+|------|--------|---|
+|female|data analyst|28|
+|male|egineer|30|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
